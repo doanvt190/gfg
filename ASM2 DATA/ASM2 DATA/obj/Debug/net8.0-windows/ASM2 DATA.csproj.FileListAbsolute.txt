@@ -1,0 +1,74 @@
+D:\C#\ASM2 DATA\ASM2 DATA\bin\Debug\net8.0-windows\ASM2 DATA.exe
+D:\C#\ASM2 DATA\ASM2 DATA\bin\Debug\net8.0-windows\ASM2 DATA.deps.json
+D:\C#\ASM2 DATA\ASM2 DATA\bin\Debug\net8.0-windows\ASM2 DATA.runtimeconfig.json
+D:\C#\ASM2 DATA\ASM2 DATA\bin\Debug\net8.0-windows\ASM2 DATA.dll
+D:\C#\ASM2 DATA\ASM2 DATA\bin\Debug\net8.0-windows\ASM2 DATA.pdb
+D:\C#\ASM2 DATA\ASM2 DATA\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\C#\ASM2 DATA\ASM2 DATA\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\C#\ASM2 DATA\ASM2 DATA\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\C#\ASM2 DATA\ASM2 DATA\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\C#\ASM2 DATA\ASM2 DATA\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\C#\ASM2 DATA\ASM2 DATA\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\C#\ASM2 DATA\ASM2 DATA\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+D:\C#\ASM2 DATA\ASM2 DATA\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\C#\ASM2 DATA\ASM2 DATA\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\C#\ASM2 DATA\ASM2 DATA\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\C#\ASM2 DATA\ASM2 DATA\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\C#\ASM2 DATA\ASM2 DATA\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\C#\ASM2 DATA\ASM2 DATA\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\C#\ASM2 DATA\ASM2 DATA\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\C#\ASM2 DATA\ASM2 DATA\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+D:\C#\ASM2 DATA\ASM2 DATA\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+D:\C#\ASM2 DATA\ASM2 DATA\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+D:\C#\ASM2 DATA\ASM2 DATA\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\C#\ASM2 DATA\ASM2 DATA\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+D:\C#\ASM2 DATA\ASM2 DATA\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\C#\ASM2 DATA\ASM2 DATA\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+D:\C#\ASM2 DATA\ASM2 DATA\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\C#\ASM2 DATA\ASM2 DATA\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\C#\ASM2 DATA\ASM2 DATA\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\C#\ASM2 DATA\ASM2 DATA\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+D:\C#\ASM2 DATA\ASM2 DATA\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\C#\ASM2 DATA\ASM2 DATA\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\C#\ASM2 DATA\ASM2 DATA\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\C#\ASM2 DATA\ASM2 DATA\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\C#\ASM2 DATA\ASM2 DATA\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\C#\ASM2 DATA\ASM2 DATA\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\C#\ASM2 DATA\ASM2 DATA\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\C#\ASM2 DATA\ASM2 DATA\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\C#\ASM2 DATA\ASM2 DATA\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\C#\ASM2 DATA\ASM2 DATA\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\C#\ASM2 DATA\ASM2 DATA\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\C#\ASM2 DATA\ASM2 DATA\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\C#\ASM2 DATA\ASM2 DATA\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C#\ASM2 DATA\ASM2 DATA\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C#\ASM2 DATA\ASM2 DATA\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C#\ASM2 DATA\ASM2 DATA\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C#\ASM2 DATA\ASM2 DATA\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+D:\C#\ASM2 DATA\ASM2 DATA\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+D:\C#\ASM2 DATA\ASM2 DATA\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+D:\C#\ASM2 DATA\ASM2 DATA\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+D:\C#\ASM2 DATA\ASM2 DATA\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+D:\C#\ASM2 DATA\ASM2 DATA\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+D:\C#\ASM2 DATA\ASM2 DATA\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\C#\ASM2 DATA\ASM2 DATA\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\C#\ASM2 DATA\ASM2 DATA\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\C#\ASM2 DATA\ASM2 DATA\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\C#\ASM2 DATA\ASM2 DATA\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\C#\ASM2 DATA\ASM2 DATA\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\C#\ASM2 DATA\ASM2 DATA\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+D:\C#\ASM2 DATA\ASM2 DATA\obj\Debug\net8.0-windows\ASM2 DATA.csproj.AssemblyReference.cache
+D:\C#\ASM2 DATA\ASM2 DATA\obj\Debug\net8.0-windows\ASM2_DATA.Form1.resources
+D:\C#\ASM2 DATA\ASM2 DATA\obj\Debug\net8.0-windows\ASM2_DATA.Form2.resources
+D:\C#\ASM2 DATA\ASM2 DATA\obj\Debug\net8.0-windows\ASM2 DATA.csproj.GenerateResource.cache
+D:\C#\ASM2 DATA\ASM2 DATA\obj\Debug\net8.0-windows\ASM2 DATA.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ASM2 DATA\ASM2 DATA\obj\Debug\net8.0-windows\ASM2 DATA.AssemblyInfoInputs.cache
+D:\C#\ASM2 DATA\ASM2 DATA\obj\Debug\net8.0-windows\ASM2 DATA.AssemblyInfo.cs
+D:\C#\ASM2 DATA\ASM2 DATA\obj\Debug\net8.0-windows\ASM2 DATA.csproj.CoreCompileInputs.cache
+D:\C#\ASM2 DATA\ASM2 DATA\obj\Debug\net8.0-windows\ASM2 DATA.csproj.CopyComplete
+D:\C#\ASM2 DATA\ASM2 DATA\obj\Debug\net8.0-windows\ASM2 DATA.dll
+D:\C#\ASM2 DATA\ASM2 DATA\obj\Debug\net8.0-windows\refint\ASM2 DATA.dll
+D:\C#\ASM2 DATA\ASM2 DATA\obj\Debug\net8.0-windows\ASM2 DATA.pdb
+D:\C#\ASM2 DATA\ASM2 DATA\obj\Debug\net8.0-windows\ASM2 DATA.genruntimeconfig.cache
+D:\C#\ASM2 DATA\ASM2 DATA\obj\Debug\net8.0-windows\ref\ASM2 DATA.dll
+D:\C#\ASM2 DATA\ASM2 DATA\obj\Debug\net8.0-windows\ASM2_DATA.Login.resources
